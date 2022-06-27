@@ -24,7 +24,7 @@
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<p> </p>
 <hr>
 <hr>
 
