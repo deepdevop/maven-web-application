@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">I Do </h1>
-<h1 align="center"> I do means , I know that </h1>
+<h1 align="center"> I do means , I know that i can do  </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
